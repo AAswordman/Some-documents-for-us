@@ -93,3 +93,16 @@ zombie
 一个标准的子弹:
 |接口|类型|描述|
 |--|--|--|
+|attack|int|子弹的攻击力|
+|power|Array/int|子弹移动速度。当确定direction后这里用Array，如[80,25],否则用整数|
+|offset|Array|子弹生成偏移|
+|size|Array|子弹大小|
+|png|String|子弹的贴图|
+|gif|String|子弹的贴图，相比上一个是动态|
+|type|String|子弹类型，这个主要给自己看的，写啥都行，不写也行|
+|attackrang|int|子弹飞行最大长度|
+|shoot|float|子弹在植物attack的gif播放到某一秒时发射|
+|direction|Array|一个标志，确定子弹使用Array的power|
+|sun|int|一个标志，确定子弹是阳光。|
+
+这里注意，能用int的power就用int，因为这样会减少运算行数。
