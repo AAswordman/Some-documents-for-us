@@ -24,10 +24,10 @@ zombie
 >> [camera](https://github.com/AAswordman/Some-documents-for-us#camera)<br>
 >> [background](https://github.com/AAswordman/Some-documents-for-us#background)<br>
 >> [plant](https://github.com/AAswordman/Some-documents-for-us#plant)<br>
->>> [植物整体]()<br>
->>> [植物贴图]()<br>
->>> [植物子弹]()<br>
->>> [植物转换]()<br>
+>>> [植物整体](https://github.com/AAswordman/Some-documents-for-us#%E6%A4%8D%E7%89%A9%E6%95%B4%E4%BD%93)<br>
+>>> [植物贴图](https://github.com/AAswordman/Some-documents-for-us#植物贴图)<br>
+>>> [植物子弹](https://github.com/AAswordman/Some-documents-for-us#植物子弹)<br>
+>>> [植物转换](https://github.com/AAswordman/Some-documents-for-us#植物转换)<br>
 
 ## plug.json
 ### camera
