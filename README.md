@@ -19,6 +19,9 @@ zombie
   FlagZombieAttack.gif
 等等等等
 ```
+## 目录
+>
+
 ## plug.json
 ### camera
 定义窗口视图。
@@ -41,6 +44,7 @@ zombie
 |latticeH|double|网格每格的宽/显示部分的宽|
 
 有可能各位有点懵，我画张图就行了。
+![](https://github.com/AAswordman)
 ### plant
 在这里你需要这样子写：
 ```
