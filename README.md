@@ -44,7 +44,7 @@ zombie
 |latticeH|double|网格每格的宽/显示部分的宽|
 
 有可能各位有点懵，我画张图就行了。
-![](https://github.com/AAswordman)
+![](https://github.com/AAswordman/Some-documents-for-us/raw/master/)
 ### plant
 在这里你需要这样子写：
 ```
